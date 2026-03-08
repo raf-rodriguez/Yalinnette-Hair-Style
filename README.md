@@ -1,4 +1,4 @@
-# 💅 Beauty Salon App
+# 💅 Yalinnette Hair & style App
 
 Sistema completo de reservas y tienda para salón de belleza profesional en Caguas, Puerto Rico.
 
