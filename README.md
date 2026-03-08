@@ -130,7 +130,7 @@ POST /api/seed/               – Cargar datos de ejemplo
 ## Configuración de Pagos
 
 ### ATH Móvil
-El sistema genera un deep link `athm://pay?phone=7877187189&amount=X` que abre la app automáticamente.
+El sistema genera un deep link `athm://pay?phone=7870000000&amount=X` que abre la app automáticamente.
 
 ### PayPal
 Redirige a `paypal.me/BeautySalonPR/X`. Para configurar tu enlace PayPal.me, ve a paypal.me y crea tu enlace personalizado.
@@ -145,9 +145,3 @@ Redirige a `paypal.me/BeautySalonPR/X`. Para configurar tu enlace PayPal.me, ve 
    TWILIO_AUTH_TOKEN=xxxxx
    TWILIO_WHATSAPP_FROM=whatsapp:+14155238886
    ```
-
-## Información del Salón
-
-- 📞 Teléfono: 787-718-7189
-- 📍 Ubicación: Caguas, Puerto Rico
-- 🕐 Horario: Martes a Sábado, 9:00 AM – 6:00 PM
